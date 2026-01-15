@@ -1,0 +1,7 @@
+myenv/
+.venv/
+__pycache__/
+uploads/*
+*.h5
+*.caffemodel
+*.prototxt
