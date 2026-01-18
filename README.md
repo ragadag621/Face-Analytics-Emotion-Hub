@@ -45,5 +45,5 @@ The system operates through a 4-stage pipeline:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/Face-Recognition-Hub.git](https://github.com/yourusername/Face-Recognition-Hub.git)
+   git clone https://github.com/ragadag621/Face-Analytics-Emotion-Hub.git
    cd Face-Recognition-Hub
