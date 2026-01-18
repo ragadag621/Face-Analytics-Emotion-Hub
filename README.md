@@ -26,7 +26,11 @@ The system operates through a 4-stage pipeline:
     $$Distance(A, B) = 1 - \frac{A \cdot B}{\|A\| \|B\|}$$
 4.  **Thresholding:** A rigid **Threshold of 0.4** is applied to prevent "False Positives", followed by an emotional sentiment scan.
 
+## 📺 Live Demonstration
 
+Check out the Application in action:
+
+<img src="./known_faces/images/demo.gif.gif" alt="face Recognation Demo" width="60%" />
 
 ---
 
