@@ -12,7 +12,7 @@ This is a professional-grade **Full-Stack AI solution** designed to bridge the g
 * **Vectorized Identification:** Implements **128-dimensional facial encoding** for precise user recognition.
 * **Emotional Intelligence:** Powered by **DeepFace**, the system analyzes facial micro-expressions to detect 7 different emotional states.
 * **Hybrid Input Pipeline:** Seamlessly handles both **Base64-encoded webcam streams** and traditional multi-part image uploads.
-* **Mathematical Accuracy:** Uses **Cosine Similarity** to calculate the distance between feature vectors, ensuring robust matching regardless of lighting or distance.
+* **Mathematical Accuracy:** Uses **Cosine Similarity** To calculate the distance between feature vectors, ensuring robust matching regardless of lighting or distance.
 
 ---
 
